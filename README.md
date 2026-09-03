@@ -6,6 +6,7 @@
 | ------- |
 | [0292-nim-game](https://github.com/ikarathore2411/Leetcode/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/ikarathore2411/Leetcode/tree/master/0877-stone-game) |
+| [3875-construct-uniform-parity-array-i](https://github.com/ikarathore2411/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Brainteaser
 |  |
 | ------- |
@@ -52,6 +53,7 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/ikarathore2411/Leetcode/tree/master/0877-stone-game) |
+| [3875-construct-uniform-parity-array-i](https://github.com/ikarathore2411/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
