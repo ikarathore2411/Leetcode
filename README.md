@@ -37,11 +37,13 @@
 ## Linked List
 |  |
 | ------- |
+| [0086-partition-list](https://github.com/ikarathore2411/Leetcode/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/ikarathore2411/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ikarathore2411/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 ## Two Pointers
 |  |
 | ------- |
+| [0086-partition-list](https://github.com/ikarathore2411/Leetcode/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/ikarathore2411/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ikarathore2411/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 ## Floyd's Cycle Finding Algorithm
